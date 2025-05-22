@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: libs/imilanovi20_vjezba_07_dz_2_lib_konfig-1.4.0.jar libs/im
+ ilanovi20_vjezba_07_dz_2_lib_podaci-1.2.0.jar libs/gson-2.10.1.jar
+Main-Class: edu.unizg.foi.nwtis.imilanovi20.vjezba_07_dz_2.PosluziteljPa
+ rtner
+Created-By: Maven Integration for Eclipse
+

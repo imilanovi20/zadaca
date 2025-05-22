@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: lib/imilanovi20_vjezba_07_dz_2_lib_podaci-1.2.0.jar
+Created-By: Maven Integration for Eclipse
+

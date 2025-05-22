@@ -1,0 +1,4 @@
+--patch-module
+imilanovi20_vjezba_07_dz_2_lib_konfig=_
+--add-reads
+imilanovi20_vjezba_07_dz_2_lib_konfig=ALL-UNNAMED
